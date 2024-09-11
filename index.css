@@ -1,0 +1,79 @@
+* {
+  font-family: "Open Sans", sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 1em;
+}
+
+h2,
+h3,
+li {
+  font-family: "Aleo", serif;
+  font-weight: 700;
+}
+
+h2 {
+  font-size: 1.75rem;
+  line-height: 1.4;
+  font-weight: 600;
+  margin-top: 0;
+  margin-bottom: 0.5em;
+}
+
+h3 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+p {
+  font-size: 0.875rem;
+  line-height: 1.2;
+  font-weight: 400;
+  margin-top: 0;
+  color: #5a5a5a;
+}
+
+ul {
+  padding: 0.3em 1em;
+}
+
+li {
+  font-weight: bold;
+  font-size: 0.875rem;
+}
+
+img {
+  width: 100%;
+}
+
+.meta-info {
+  font-size: 0.8125rem;
+  margin-bottom: 0.8em;
+}
+
+.divider {
+  color: #dbdbdb;
+}
+
+.category {
+  color: #222;
+}
+
+.live {
+  color: #bb1919;
+  font-weight: 700;
+  margin-right: 0.25em;
+}
+
+.icon {
+  height: 13px;
+  width: 13px;
+  display: inline-block;
+  margin-bottom: -2px;
+  filter: invert(32%) sepia(8%) saturate(0%) hue-rotate(174deg) brightness(93%)
+    contrast(74%);
+}
